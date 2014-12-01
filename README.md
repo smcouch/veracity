@@ -1,7 +1,7 @@
 VERACity
 ========
 
-Verification of Explosive Relativistic Astrophysical Codes
+Verification of Explosive Relativistic Astrophysics Codes
 
 veracity |vəˈrasətē|:
 noun  
